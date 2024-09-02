@@ -1,1 +1,1 @@
-# SPI
+This project implements the SPI protocol in a single master dual slave configuration, enabling flexible speed operation and supporting all four SPI modes for versatile and reliable data communication.
